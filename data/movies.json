@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Career Girls",
+    "director": "Mike Leigh",
+    "gender": "Drama",
+    "year": 1997,
+    "time": 83,
+    "isAwarded": false,
+    "calificationIMDB": 7.1
+  },
+  {
+    "id": 2,
+    "title": "Our Idiot Brother",
+    "director": "Jesse Peretz",
+    "gender": "Comedia",
+    "year": 2011,
+    "time": 90,
+    "isAwarded": true,
+    "calificationIMDB": 6.4
+  },
+  {
+    "id": 3,
+    "title": "Liebestraum",
+    "director": "Mike Figgis",
+    "gender": "Horror",
+    "year": 1991,
+    "time": 112,
+    "isAwarded": true,
+    "calificationIMDB": 6
+  },
+  {
+    "id": 4,
+    "title": "Summer and Smoke",
+    "director": "Peter Glenville",
+    "gender": "Drama",
+    "year": 1961,
+    "time": 118,
+    "isAwarded": true,
+    "calificationIMDB": 6.9
+  },
+  {
+    "id": 5,
+    "title": "Axed",
+    "director": "Ryan Lee Driscoll",
+    "gender": "Thriller",
+    "year": 2012,
+    "time": 84,
+    "isAwarded": false,
+    "calificationIMDB": 3.7
+  },
+  {
+    "id": 6,
+    "title": "The Mist",
+    "director": "Frank Darabont",
+    "gender": "Sci-Fi",
+    "year": 2007,
+    "time": 126,
+    "isAwarded": true,
+    "calificationIMDB": 7.1
+  },
+  {
+    "id": 7,
+    "title": "Tom and Huck",
+    "director": "Peter Hewitt",
+    "gender": "Aventura",
+    "year": 1995,
+    "time": 97,
+    "isAwarded": false,
+    "calificationIMDB": 5.5
+  },
+  {
+    "id": 8,
+    "title": "The Lord of the Rings: The Return of the King",
+    "director": "Peter Jackson",
+    "gender": "Aventura",
+    "year": 2003,
+    "time": 401,
+    "isAwarded": true,
+    "calificationIMDB": 8.9
+  },
+  {
+    "id": 9,
+    "title": "Doctor Strange",
+    "director": "Scott Derrickson",
+    "gender": "Accion",
+    "year": 2016,
+    "time": 115,
+    "isAwarded": true,
+    "calificationIMDB": 7.5
+  },
+  {
+    "id": 10,
+    "title": "The Last Lovecraft: Relic of Cthulhu",
+    "director": "Henry Saine",
+    "gender": "Horror",
+    "year": 2009,
+    "time": 78,
+    "isAwarded": false,
+    "calificationIMDB": 5.6
+  }
+]
